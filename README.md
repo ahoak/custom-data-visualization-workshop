@@ -9,7 +9,7 @@ _This is a statistical ratio that measures the proportion of the country's worki
 The /data folder is data relating to the employment-population ratio from the [Bureau of Labor and Statistics](https://www.bls.gov/data/).
 Categories include:
 <br />
-!["Data Preview"](/images/data_table_employment_population_ratio.JPG)
+!["Data Preview"](/images/employment_population.JPG)
 
 <br />
 All data is from January 2018-July 2020. Education levels are based on data for individuals 25 years and older and broken down by sex. For both Bachelor's and advance degrees, we have information on race and sex, and ethnicity and sex per category.  There are separate files for age groups and broken down by race, sex, and ethnicity.
